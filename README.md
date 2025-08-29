@@ -44,7 +44,7 @@ Because if it isn’t in plastic on my desk, does it even exist?
 
 ## 📫 Get in Touch!!
 - **Email:** saaimpersonal@gmail.com  
-- **LinkedIn:** [linkedin.com/in/saaim-tahir](https://www.linkedin.com/in/saaim-tahir)  
+- **LinkedIn:** [[linkedin.com/in/saaim-tahir](https://www.linkedin.com/in/saaim-tahir)  ](https://www.linkedin.com/in/saaim-tahir-323a58263)
 
 ---
 
