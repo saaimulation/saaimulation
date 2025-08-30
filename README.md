@@ -1,8 +1,8 @@
 # Hi, I’m Saaim 👋  
 
-🚀 Aerospace Engineering student at the University of Leicester 
-🏎️ Aspiring Aerodynamicist at Formula 1!
-🛠️ CAD, CFD, wind tunnels, and 3D printers (I break them more often than I should, but that’s part of the fun)  
+-🚀 Aerospace Engineering student at the University of Leicester
+-🏎️ Aspiring Aerodynamicist at Formula 1!
+-🛠️ CAD, CFD, wind tunnels, and 3D printers (I break them more often than I should, but that’s part of the fun)  
 
 ---
 
