@@ -34,7 +34,7 @@ Because if it isn’t in plastic on my desk, does it even exist?
 ---
 
 ## 🎯 Currently working on...
-- Learning NX to design and model a 2026 regulation F1 front wing. 
+- Learning Siemens NX to design and model a 2026 regulation F1 front wing. 
 - Thinking of a plan to create Wind Tunnel Mark II
 
 ---
