@@ -15,6 +15,10 @@
 - Huge fan of learning by doing… and redoing… and occasionally duct taping.
 - NOT Tony Stark, but I am slowly trying to get there :D
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saaimulation&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saaimulation&layout=compact&theme=tokyonight)
+
+
 ---
 
 ## 📂 Featured Projects  
