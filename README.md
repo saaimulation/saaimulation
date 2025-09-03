@@ -29,11 +29,9 @@ Because if it isn’t in plastic on my desk, does it even exist?
 
 ---
 
-## 🎯 Next Goals  
-- Build **Wind Tunnel Mk II** (with actual flow straighteners this time).  
-- Automate CFD post-processing with Python (so I can spend less time staring at progress bars).  
-- Get a placement/internship in motorsport and put all of this to use.  
-- Keep documenting projects here so future-me can laugh at current-me.  
+## 🎯 Currently working on...
+- Learning NX to design and model a 2026 regulation F1 front wing. 
+- Thinking of a plan to create Wind Tunnel Mark II
 
 ---
 
@@ -47,9 +45,6 @@ Because if it isn’t in plastic on my desk, does it even exist?
 ## 📫 Get in Touch!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saaim-tahir-323a58263)
 [![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:saaimpersonal@gmail.com)
-
-- **Email:** saaimpersonal@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/saaim-tahir-323a58263
 
 ---
 
