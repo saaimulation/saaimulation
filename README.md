@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Saaimulation Banner" width="100%">
+  <img src="Banner.png" alt="Saaimulation Banner" width="100%">
 </p>
 
 # Hi, I’m Saaim 👋  
