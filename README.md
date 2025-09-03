@@ -15,10 +15,6 @@
 - Huge fan of learning by doing… and redoing… and occasionally duct taping.
 - NOT Tony Stark, but I am slowly trying to get there :D
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saaimulation&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saaimulation&layout=compact&theme=tokyonight)
-
-
 ---
 
 ## 📂 Featured Projects  
@@ -49,6 +45,9 @@ Because if it isn’t in plastic on my desk, does it even exist?
 --- 
 
 ## 📫 Get in Touch!!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saaim-tahir-323a58263)
+[![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:saaimpersonal@gmail.com)
+
 - **Email:** saaimpersonal@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/saaim-tahir-323a58263
 
