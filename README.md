@@ -26,7 +26,8 @@
 First attempt at building a tunnel from cardboard, bottles, and a Pringles can. It worked… sort of. Smoke flow was chaotic, but so was the design. Learned more from this than any textbook.  
 
 🔹 [**Project: Aero**](https://github.com/saaimulation/Project-Aero)  
-Designing a simplified F1-style front wing in Siemens NX, then testing it in SimScale CFD.  
+Designing a 2026-regulated F1 front wing in Siemens NX, then testing it in SimScale CFD.  
+Then 3D printing the wing, and testing it in a new wind tunnel!
 Basically me seeing if student laptops + duct tape can stand up against a £135m aero department.  
 
 
