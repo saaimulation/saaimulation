@@ -27,7 +27,7 @@ First attempt at building a tunnel from cardboard, bottles, and a Pringles can. 
 
 🔹 [**Project: Aero**](https://github.com/saaimulation/Project-Aero)  
 Designing a simplified F1-style front wing in Siemens NX, then testing it in SimScale CFD.  
-Basically me seeing if student laptops + duct tape can stand up against a £200m aero department.  
+Basically me seeing if student laptops + duct tape can stand up against a £135m aero department.  
 
 
 🔹 **3D Printing Aero Parts** (coming soon)  
