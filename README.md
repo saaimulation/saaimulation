@@ -25,8 +25,10 @@
 🔹 [Mini Wind Tunnel – Mk I](https://github.com/saaimulation/Mini-wind-tunnel)  
 First attempt at building a tunnel from cardboard, bottles, and a Pringles can. It worked… sort of. Smoke flow was chaotic, but so was the design. Learned more from this than any textbook.  
 
-🔹 **F1 Wing Design & CFD** (coming soon)  
-Simplified F1 wings, tested in CFD. Basically me trying to see if SolidWorks + patience can compete with a £200m aero department.  
+🔹 [**Project:Aero — Front Wing Development**](https://github.com/saaimulation/Project-Aero)  
+Designing a simplified F1-style front wing in Siemens NX, then testing it in SimScale CFD.  
+Basically me seeing if student laptops + duct tape can stand up against a £200m aero department.  
+
 
 🔹 **3D Printing Aero Parts** (coming soon)  
 Because if it isn’t in plastic on my desk, does it even exist?  
