@@ -13,8 +13,7 @@
 ---
 
 ## 🌍 About Me  
-- Building personal projects in **aerodynamics and aero testing** (mini wind tunnels, CFD studies, F1-inspired aero parts).  
-- Currently teaching myself **Python** so I can stop bullying Excel into doing things it wasn’t designed for.  
+- Building personal projects in **aerodynamics and aero testing** (mini wind tunnels, CFD studies, F1-inspired aero parts).    
 - Proud owner of a Bambu A1, after saying goodbye to the Ender 3 Pro. My house sounds like a factory at 3am.  
 - Huge fan of learning by doing… and redoing… and occasionally duct taping.
 - NOT Tony Stark, but I am slowly trying to get there :D
