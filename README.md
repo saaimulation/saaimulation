@@ -35,7 +35,7 @@ Because if it isn’t in plastic on my desk, does it even exist?
 ---
 
 ## 🎯 Currently working on...
-- Learning Siemens NX to design and model a 2026 regulation F1 front wing. 
+- Running CFD analysis using SimScale, on the ST0!
 - Thinking of a plan to create Wind Tunnel Mark II
 
 ---
