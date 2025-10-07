@@ -36,6 +36,8 @@ then nudging geometry for small, repeatable gains. Rules PDF linked. No raw CAD 
 🔹 [**FS26 Aerodynamics**](https://github.com/saaimulation/UoL-Racing-FS26-Aerodynamics)  
 Repo that documents my work on the 2026 UoL Racing Aerodynamics team while protecting team IP. STAR CCM workflow, high level results, clean comparisons, and what I learned. No geometry, meshes, or solver decks.
 
+Recruiters and managers are welcome to ask for access!
+
 
 🔹 **Codename: Blue Steel** (coming soon)  
 
