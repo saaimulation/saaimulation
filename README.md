@@ -29,7 +29,7 @@ Designing a 2026-regulated F1 front wing in Siemens NX, then testing it in SimSc
 Then 3D printing the wing at a smaller scale, and testing it in a new and improved wind tunnel!  
 Basically me seeing if student laptops + duct tape can stand up against a £135m aero department.  
 
-🔹 [**UAV Is Online**](https://github.com/saaimulation/UAV-Is-Online)  
+🔹 [**"UAV Is Online"**](https://github.com/saaimulation/UAV-Is-Online)  
 Personal CFD log for the UoL AeroLabs team. Building a laptop friendly baseline in SimScale,   
 then nudging geometry for small, repeatable gains. Rules PDF linked. No raw CAD here, just plots and notes.
 
