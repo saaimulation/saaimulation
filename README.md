@@ -33,7 +33,7 @@ Basically me seeing if student laptops + duct tape can stand up against a £135m
 Personal CFD log for the UoL AeroLabs team. Building a laptop friendly baseline in SimScale,   
 then nudging geometry for small, repeatable gains. Rules PDF linked. No raw CAD here, just plots and notes.
 
-🔹 [**FS26 Aerodynamics**](https://github.com/saaimulation/UoL-Racing-FS26-Aerodynamics)  
+🔹 [**FS26 Aerodynamics (private)**](https://github.com/saaimulation/UoL-Racing-FS26-Aerodynamics)  
 Repo that documents my work on the 2026 UoL Racing Aerodynamics team while protecting team IP. StarCCM+ workflow, high level results, clean comparisons, and what I learned. No geometry, meshes, or solver decks.
 
 Recruiters and managers are welcome to ask for access!
