@@ -34,8 +34,10 @@ Basically me seeing if student laptops + duct tape can stand up against a £135m
 ---
 
 ## 🎯 Currently working on...
-- Running CFD analysis using SimScale, on the ST0!
+- Running CFD analysis using SimScale, on the ST0
 - Thinking of a plan to create Wind Tunnel Mark II
+- Leading my aerodynamics team in the IMechE UAS challenge 
+- Working on CFD for the new 2026 Formula Student car 
 
 ---
 
