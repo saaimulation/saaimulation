@@ -6,7 +6,7 @@
 
 🚀 Aerospace Engineering student at the University of Leicester
 
-🛠 I like building things, whether that’s wind tunnels, F1 parts, cosplay props, or projects that become way more complicated than they needed to be
+🛠 I like building things, whether that’s wind tunnels, F1 parts or projects that become way more complicated than they needed to be
 
 ⚙ CAD, 3D printing, prototyping, engineering chaos, and occasionally setting my printer up for failure
 
