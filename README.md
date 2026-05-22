@@ -28,7 +28,7 @@
 
 First attempt at building a tunnel from cardboard, bottles, and a Pringles can. It worked… sort of. Smoke flow was chaotic, but so was the design. Learned more from this than any textbook.  
 
-🔹 [**Project: Aero**](https://github.com/saaimulation/Project-Aero)  
+🔹 [**Project: ST0**](https://github.com/saaimulation/Project-Aero)  
 
 Designing a 2026-regulated F1 front wing in Siemens NX to learn more about aero design, CAD surfacing, and engineering workflows.  
 Started as a CFD project, but honestly became more about redesigns, feedback, and figuring out why things were not working.  
