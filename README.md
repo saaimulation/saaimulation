@@ -15,8 +15,7 @@
 ## 🌍 About Me  
 
 • Most of my projects start with:
-  “This sounds cool”  
-  and somehow end at 3am with broken CAD
+  “This sounds cool” and somehow end at 3am with broken CAD
 
 • Started with motorsport and aero stuff, now I mostly just enjoy building things and figuring out how they work
 
