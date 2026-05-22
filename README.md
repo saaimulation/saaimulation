@@ -37,7 +37,6 @@ Personal CFD log for the UoL AeroLabs team. Building a laptop friendly baseline 
 then nudging geometry for small, repeatable gains. Rules PDF linked. No raw CAD here, just plots and notes.
 
 🔹 [**FS26 Aerodynamics (private)**](https://github.com/saaimulation/UoL-Racing-FS26-Aerodynamics)  
-♦ [FS26 Aerodynamics (Private)](https://github.com/saaimulation/UoL-Racing-FS26-Aerodynamics)
 Small repo documenting some of my early CFD and aerodynamics work within the 2026 UoL Formula Student team.  
 Mostly workflow notes, setup attempts, and lessons learned while getting familiar with team development tools and processes.
 
