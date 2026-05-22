@@ -6,17 +6,21 @@
 
 🚀 Aerospace Engineering student at the University of Leicester
 
-🏎️ Aspiring Aerodynamicist at Formula 1!
+🛠 I like building things, whether that’s wind tunnels, F1 parts, cosplay props, or projects that become way more complicated than they needed to be
 
-🛠️ CAD, CFD, wind tunnels, and 3D printers (I break them more often than I should, but that’s part of the fun)  
+⚙ CAD, 3D printing, prototyping, engineering chaos, and occasionally setting my printer up for failure
 
 ---
 
 ## 🌍 About Me  
-- Building personal projects in **aerodynamics and aero testing** (mini wind tunnels, CFD studies, F1-inspired aero parts).    
-- Proud owner of a Bambu A1, after saying goodbye to the Ender 3 Pro. My house sounds like a factory at 3am.  
-- Huge fan of learning by doing… and redoing… and occasionally duct taping.
-- NOT Tony Stark, but I am slowly trying to get there :D
+
+• Most of my projects start with:
+  “This sounds cool”  
+  and somehow end at 3am with broken CAD
+
+• Started with motorsport and aero stuff, now I mostly just enjoy building things and figuring out how they work
+
+• Currently trying to combine engineering with cosplay builds, electronics, and other questionable ideas
 
 ---
 
@@ -25,36 +29,36 @@
 First attempt at building a tunnel from cardboard, bottles, and a Pringles can. It worked… sort of. Smoke flow was chaotic, but so was the design. Learned more from this than any textbook.  
 
 🔹 [**Project: Aero**](https://github.com/saaimulation/Project-Aero)  
-Designing a 2026-regulated F1 front wing in Siemens NX, then testing it in SimScale CFD.  
-Then 3D printing the wing at a smaller scale, and testing it in a new and improved wind tunnel!  
-Basically me seeing if student laptops + duct tape can stand up against a £135m aero department.  
+Designing a 2026-regulated F1 front wing in Siemens NX to learn more about aero design, CAD surfacing, and engineering workflows.  
+Started as a CFD project, but honestly became more about redesigns, feedback, and figuring out why things were not working.  
+Includes detailed critique and advice from an Alpine F1 aerodynamicist.
 
 🔹 [**"UAV Is Online"**](https://github.com/saaimulation/UAV-Is-Online)  
 Personal CFD log for the UoL AeroLabs team. Building a laptop friendly baseline in SimScale,   
 then nudging geometry for small, repeatable gains. Rules PDF linked. No raw CAD here, just plots and notes.
 
 🔹 [**FS26 Aerodynamics (private)**](https://github.com/saaimulation/UoL-Racing-FS26-Aerodynamics)  
-Repo that documents my work on the 2026 UoL Racing Aerodynamics team while protecting team IP. StarCCM+ workflow, high level results, clean comparisons, and what I learned. No geometry, meshes, or solver decks.
-
-Recruiters and managers are welcome to ask for access!
-
+♦ [FS26 Aerodynamics (Private)](https://github.com/saaimulation/UoL-Racing-FS26-Aerodynamics)
+Small repo documenting some of my early CFD and aerodynamics work within the 2026 UoL Formula Student team.  
+Mostly workflow notes, setup attempts, and lessons learned while getting familiar with team development tools and processes.
 
 🔹 **Codename: Blue Steel** (coming soon)  
 
 ---
 
 ## 🎯 Currently working on...
-- Running CFD analysis using SimScale, on the ST0
-- Thinking of a plan to create Wind Tunnel Mark II
-- Leading my aerodynamics team in the IMechE UAS challenge 
-- Working on CFD for the new 2026 Formula Student car 
+
+- Learning more hands-on manufacturing and prototyping skills
+- Leading the aerodynamics team for the IMECHE UAS challenge
+- Planning future engineering/cosplay builds because apparently I enjoy making life difficult for myself
+- Trying to turn dumb ideas into real projects without declaring bankruptcy
 
 ---
 
 ## ⚡ Fun Facts  
 - Built my first “wind tunnel” out of cardboard and a Pringles can. It *technically* worked.  
 - I believe duct tape should be considered a legitimate engineering material.  
-- Anime fight scenes lowkey inspire my aero concepts. Don’t ask why.  
+- Anime fight scenes lowkey inspire my concepts. Don’t ask why.  
 
 --- 
 
