@@ -25,18 +25,22 @@
 
 ## 📂 Featured Projects  
 🔹 [**Mini Wind Tunnel – Mark I**](https://github.com/saaimulation/Mini-wind-tunnel)  
+
 First attempt at building a tunnel from cardboard, bottles, and a Pringles can. It worked… sort of. Smoke flow was chaotic, but so was the design. Learned more from this than any textbook.  
 
 🔹 [**Project: Aero**](https://github.com/saaimulation/Project-Aero)  
+
 Designing a 2026-regulated F1 front wing in Siemens NX to learn more about aero design, CAD surfacing, and engineering workflows.  
 Started as a CFD project, but honestly became more about redesigns, feedback, and figuring out why things were not working.  
 Includes detailed critique and advice from an Alpine F1 aerodynamicist.
 
 🔹 [**"UAV Is Online"**](https://github.com/saaimulation/UAV-Is-Online)  
+
 Personal CFD log for the UoL AeroLabs team. Building a laptop friendly baseline in SimScale,   
 then nudging geometry for small, repeatable gains. Rules PDF linked. No raw CAD here, just plots and notes.
 
 🔹 [**FS26 Aerodynamics (private)**](https://github.com/saaimulation/UoL-Racing-FS26-Aerodynamics)  
+
 Small repo documenting some of my early CFD and aerodynamics work within the 2026 UoL Formula Student team.  
 Mostly workflow notes, setup attempts, and lessons learned while getting familiar with team development tools and processes.
 
